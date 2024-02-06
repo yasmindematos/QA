@@ -34,6 +34,7 @@ Verificar se pessoa usuária pode fazer login com credenciais válidas.
 
 ⮕ **Resultado Esperado**: 
 <br>
+
 Redirecionamento para a tela principal com a sessão de usuário/usuária ativa.
 <br>
 
@@ -53,6 +54,7 @@ Confirmar que login com credenciais inválidas é negado.
 
 ⮕ **Resultado Esperado**: 
 <br>
+
 Mensagem de erro e permanência na tela de login.
 <br>
 
@@ -76,6 +78,7 @@ Assegurar que pessoa usuária pode registrar uma nova conta
 
 ⮕ **Resultado Esperado**: 
 <br>
+
 Exibição da mensagem "Conta criada com sucesso!" e opção para acessar a página inicial.
 <br>
 
@@ -97,8 +100,9 @@ Verificar a validação da força da senha durante o registro.
 
 ⮕ **Resultado Esperado**: 
 <br>
-Mensagem de erro indicando a necessidade de uma senha mais forte.
 
+Mensagem de erro indicando a necessidade de uma senha mais forte.
+<br>
 
 ### Tela de Inatividade
 <br>
@@ -118,6 +122,7 @@ Verificar o comportamento do aplicativo após inatividade prolongada.
 
 ⮕ **Resultado Esperado**: 
 <br>
+
 Exibição da tela "Tente novamente!" com a opção de continuar o cadastro.
 <br>
 
