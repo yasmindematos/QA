@@ -32,7 +32,9 @@ Verificar se pessoa usuária pode fazer login com credenciais válidas.
 - Inserir um e-mail e senha válidos nos campos correspondentes.
 - Clicar no botão "Entrar".
 
-**Resultado Esperado**: Redirecionamento para a tela principal com a sessão de usuário/usuária ativa.
+⮕ **Resultado Esperado**: 
+<br>
+Redirecionamento para a tela principal com a sessão de usuário/usuária ativa.
 <br>
 
 **CT-02: Login com credenciais inválidas**
@@ -49,7 +51,9 @@ Confirmar que login com credenciais inválidas é negado.
 - Inserir e-mail e senha inválidos.
 - Clicar no botão "Entrar".
 
-**Resultado Esperado**: Mensagem de erro e permanência na tela de login.
+⮕ **Resultado Esperado**: 
+<br>
+Mensagem de erro e permanência na tela de login.
 <br>
 
 ### Tela de Registro de Conta Nova
@@ -70,7 +74,9 @@ Assegurar que pessoa usuária pode registrar uma nova conta
 - Preencher todos os campos com informações válidas.
 - Clicar no botão "Criar conta nova".
 
-**Resultado Esperado**: Exibição da mensagem "Conta criada com sucesso!" e opção para acessar a página inicial.
+⮕ **Resultado Esperado**: 
+<br>
+Exibição da mensagem "Conta criada com sucesso!" e opção para acessar a página inicial.
 <br>
 
 **CT-04: Registro com Senha Fraca**
@@ -87,8 +93,11 @@ Verificar a validação da força da senha durante o registro.
 
 - Preencher todos os campos, mas inserir uma senha que não atende aos requisitos de segurança.
 - Clicar no botão "Criar conta nova".
+<br>
 
-**Resultado Esperado**: Mensagem de erro indicando a necessidade de uma senha mais forte.
+⮕ **Resultado Esperado**: 
+<br>
+Mensagem de erro indicando a necessidade de uma senha mais forte.
 
 
 ### Tela de Inatividade
@@ -105,9 +114,12 @@ Verificar o comportamento do aplicativo após inatividade prolongada.
 ⮕ Passos:
 <br>
 - Logar no aplicativo e não realizar nenhuma ação durante o tempo estipulado para expiração da sessão.
+<br>
 
-**Resultado Esperado**: Exibição da tela "Tente novamente!" com a opção de continuar o cadastro.
-
+⮕ **Resultado Esperado**: 
+<br>
+Exibição da tela "Tente novamente!" com a opção de continuar o cadastro.
+<br>
 
 ## Procedimentos de Execução
 
