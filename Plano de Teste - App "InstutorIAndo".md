@@ -17,7 +17,7 @@ Garantir que o processo de autenticação da pessoa usuária seja eficiente e se
 
 ### Tela de Login
 
-**CT-01: Login com sucesso**
+#### **CT-01: Login com sucesso**
 <br>
 
 ⮕ Objetivo: 
@@ -38,7 +38,7 @@ Verificar se pessoa usuária pode fazer login com credenciais válidas.
 Redirecionamento para a tela principal com a sessão de usuário/usuária ativa.
 <br>
 
-**CT-02: Login com credenciais inválidas**
+#### **CT-02: Login com credenciais inválidas**
 
 ⮕ Objetivo: 
 <br>
@@ -61,7 +61,7 @@ Mensagem de erro e permanência na tela de login.
 ### Tela de Registro de Conta Nova
 <br>
 
-**CT-03: Registro de Conta Nova com Sucesso**
+#### **CT-03: Registro de Conta Nova com Sucesso**
 <br>
 
 ⮕ Objetivo: 
@@ -82,7 +82,7 @@ Assegurar que pessoa usuária pode registrar uma nova conta
 Exibição da mensagem "Conta criada com sucesso!" e opção para acessar a página inicial.
 <br>
 
-**CT-04: Registro com Senha Fraca**
+#### **CT-04: Registro com Senha Fraca**
 <br>
 
 ⮕ Objetivo: 
@@ -107,7 +107,7 @@ Mensagem de erro indicando a necessidade de uma senha mais forte.
 ### Tela de Inatividade
 <br>
 
-**CT-05: Sessão Expirada por Inatividade**
+#### **CT-05: Sessão Expirada por Inatividade**
 <br>
 
 ⮕ Objetivo:
