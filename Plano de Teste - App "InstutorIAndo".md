@@ -4,18 +4,26 @@
 
 
 https://www.figma.com/proto/cG635oMzNURlWSWNERTAa3/InstrutorIAndo---Yasmin-de-Matos?type=design&node-id=502-76&t=gbHLMFjEyjGmfTQO-1&scaling=scale-down&page-id=8%3A77&starting-point-node-id=502%3A76&show-proto-sidebar=1&mode=design
+<br>
 
 ## Objetivo 
+<br>
 
 Garantir que o processo de autenticação da pessoa usuária seja eficiente e seguro, abrangendo login, registro e manutenção de sessões ativas.
+<br>
 
 ## Preparação do Ambiente de Teste
+<br>
 
 - Ambiente de teste configurado com a versão mais recente do aplicativo MentorIA.
+<br>
 
 ## Casos de Teste
+<br>
 
 ### Tela de Login
+<br>
+<br>
 
 #### **CT-01: Login com sucesso**
 <br>
@@ -60,6 +68,7 @@ Mensagem de erro e permanência na tela de login.
 
 ### Tela de Registro de Conta Nova
 <br>
+<br>
 
 #### **CT-03: Registro de Conta Nova com Sucesso**
 <br>
@@ -80,6 +89,7 @@ Assegurar que pessoa usuária pode registrar uma nova conta
 <br>
 
 Exibição da mensagem "Conta criada com sucesso!" e opção para acessar a página inicial.
+<br>
 <br>
 
 #### **CT-04: Registro com Senha Fraca**
@@ -105,6 +115,7 @@ Mensagem de erro indicando a necessidade de uma senha mais forte.
 <br>
 
 ### Tela de Inatividade
+<br>
 <br>
 
 #### **CT-05: Sessão Expirada por Inatividade**
